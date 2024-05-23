@@ -12,8 +12,20 @@ and activate it:
 source .venv/bin/activate
 ```
 
+or:
+
+```bash
+source .venv/Scripts/activate
+```
+
 Install the dependencies when the .venv is activated:
 
 ```bash
 pip install -r requirements.txt
+```
+
+and to deactivate it when you're done:
+
+```bash
+deactivate
 ```
