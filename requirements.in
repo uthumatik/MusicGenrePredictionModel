@@ -1,4 +1,7 @@
 matplotlib
 numpy
+optuna
 pandas
 scikit-learn
+tensorflow
+xgboost
